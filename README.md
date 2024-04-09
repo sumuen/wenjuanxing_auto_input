@@ -1,3 +1,5 @@
+# fork info
+修改了多选题的写法，增加延时，日志输出
 # wenjuanxing_nomorehouseandcow
 自动化刷问卷星-油猴
 
